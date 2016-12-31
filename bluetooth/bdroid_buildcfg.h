@@ -17,6 +17,6 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME "ASUS_T00I"
+#define BTM_DEF_LOCAL_NAME "ASUS Zenfone 4"
 
 #endif
